@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 34 34" style="enable-background:new 0 0 34 34;" xml:space="preserve">
+<g id="BLOCKS" style="display:none;">
+	<rect x="0.026" y="0.022" style="display:inline;fill:#CCCACB;" width="34" height="34"/>
+</g>
+<g id="INNER_GUDIES">
+</g>
+<g id="MAIN_GUIDES">
+</g>
+<g id="ICONS">
+	<g>
+		<g>
+			<path d="M13.19,2.095H4.635c-1.49,0-2.703,1.213-2.703,2.704v8.555c0,1.49,1.213,2.702,2.703,2.702h8.555
+				c1.49,0,2.703-1.212,2.703-2.702V4.799C15.893,3.308,14.68,2.095,13.19,2.095z"/>
+			<path d="M13.19,18.029H4.635c-1.49,0-2.703,1.213-2.703,2.704v8.556c0,1.49,1.213,2.702,2.703,2.702h8.555
+				c1.49,0,2.703-1.212,2.703-2.702v-8.556C15.893,19.242,14.68,18.029,13.19,18.029z"/>
+		</g>
+		<g>
+			<path d="M29.19,2.095h-8.555c-1.49,0-2.703,1.213-2.703,2.704v8.555c0,1.49,1.213,2.702,2.703,2.702h8.555
+				c1.49,0,2.703-1.212,2.703-2.702V4.799C31.893,3.308,30.68,2.095,29.19,2.095z"/>
+			<path d="M29.19,18.029h-8.555c-1.49,0-2.703,1.213-2.703,2.704v8.556c0,1.49,1.213,2.702,2.703,2.702h8.555
+				c1.49,0,2.703-1.212,2.703-2.702v-8.556C31.893,19.242,30.68,18.029,29.19,18.029z"/>
+		</g>
+	</g>
+</g>
+<g id="TITLES">
+</g>
+</svg>

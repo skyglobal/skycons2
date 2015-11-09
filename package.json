@@ -1,0 +1,24 @@
+{
+  "name": "skycons2",
+  "version": "0.1.0",
+  "description": "A NEW collection of brand approved icons for use across Sky.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyglobal/skycons2.git"
+  },
+  "author": "Sky",
+  "bugs": {
+    "url": "https://github.com/skyglobal/skycons2/issues"
+  },
+  "homepage": "https://github.com/skyglobal/skycons2#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-consolidate": "^0.1.2",
+    "gulp-iconfont": "^5.0.0",
+    "lodash": "^3.10.1",
+    "svgo": "^0.5.6"
+  },
+  "dependencies": {
+    "gulp-svgmin": "^1.2.0"
+  }
+}

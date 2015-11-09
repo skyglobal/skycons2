@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="css/font.css"/>
+</head>
+<body>
+<table>
+<% _.each(glyphs, function(glyph) { %>
+<td>
+    <td><%= className %> <%= glyph.name %></td><td><i class="<%= className %> <%= glyph.name %>" style="font-size: 3em"></i></td>
+</tr>
+<% }); %>
+</table>
+</body>
